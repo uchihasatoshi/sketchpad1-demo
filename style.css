@@ -1,0 +1,18 @@
+*, ::before, ::after{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+body{
+	background: #BCBCBC;
+}
+.text{
+	text-align:center;
+	font-size: 16px;
+	line-height：16px;
+}
+.box{
+	width: 100vw;
+	height: 92vh;
+	background: #CCE8CF;
+}
